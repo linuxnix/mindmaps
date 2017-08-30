@@ -1,0 +1,112 @@
+DevOps
+	Containers
+		Operating system
+			CoreOS
+		Softwares
+			LXD by Ubuntu
+			Docker
+			LXC by Redhat/Google/IBM
+		Management 
+			OpenShift
+			**Rancher**
+			**Google Kubernetes**
+			Tectonic
+		Repositories
+			**Docker HUB**
+			Cloud Foundry
+	Programming
+		IDE's
+			Visual studio code
+			Sublim
+			Atom
+			VIM/EMacs
+			Notepad/notepad++
+		Frontend
+			Angular JS
+			NodeJS
+			Javascript
+		Scripting
+			PHP
+			Shell scripting
+			**Python**
+			**Ruby**
+			Go programming
+			Perl
+			PowerShell
+		API
+		JSON
+		DSL(Domain specific language)
+			**Puppet DSL**
+			**Chef Ruby DSL**
+	Cloud
+		Private
+			Openstack
+			VMWare vCenter
+			CloudStack
+		Public
+			Rackspace
+			**AWS**
+			Google Cloud Platform
+			**Azure**
+	Virtualization 
+		Hyper-V
+		Vmware
+		KVM
+	Development Environments
+		Packer
+		Vagrant
+		VirtualBOX
+		Sandboxing
+	Automation
+		Infrastructure automation(Bootstrapping)
+			Terraform
+			Cloud formation, locked to AWS
+			Heat templates, locked to OpenStack
+		Configuration management 
+			CFengine
+			Slatstack
+			Ansible
+			Puppet
+			Chef
+	CI/CD
+		Teamcity
+		Bamboo
+		Jenkins
+	Version Control
+		GIT
+			Public service
+				AWS codecommit
+				Gitlab
+				Github
+			Private service
+				GitLab
+				BitBucket
+		SVN
+	Monitoring
+		Log analysis
+			Splunk
+			ELK stack
+		Network Montering
+			Nagios
+			Graphite
+	Neworking
+		Knowledge of networking tools
+		TCP/IP networking
+		Latency
+		understanding of Switching and routing
+	Testing
+		Unit testing
+			ServerSpec
+			rspec
+		Functional testing
+			inSpec
+			ChefSpec
+	Messaging queues
+		RabbitMQ
+		IBM MQ server
+	System administration
+		Unix(Aix/Solaries)
+		**Linux**
+		**Windows**
+**Note:** Packer will not directly fall under DE, did not find a good place other than here.
+![](https://coggle-images.s3.amazonaws.com/59a4ba86d28a74000141a06a-43807f84-f330-4e16-b789-3e15356814e1.png 50x50)**WWW.LINUXNIX.COM** 
